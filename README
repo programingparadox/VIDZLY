@@ -1,15 +1,1 @@
-# VIDZLY - Social Media Website
 
-Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
-
-![Logo](http://localhost:3000/static/media/logo.2a1475c006e4300514e8.png)
-
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`JWT_SECRET`=
-
-`PORT`=
-
-`MONGO_URL`=
